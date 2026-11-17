@@ -1,0 +1,14 @@
+# Datos y modelos (se generan al correr el notebook)
+*.hdf5
+*.pth
+data/
+results/
+prueba/
+
+# Python y notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
